@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrBillyBobJoe04
 - 👀 I’m interested in ... Web Development 
-- 🌱 I’m currently learning ... CSS (JS afterwards)
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... MrBillyBobJoe04+GitHub@hotmail.com
 
